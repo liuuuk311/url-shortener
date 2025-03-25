@@ -77,7 +77,7 @@ Shortened URLs have an expiration time, after which they become invalid. The map
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+   git clone https://github.com/liuuuk311/url-shortener.git
    cd url-shortener
    ```
 
