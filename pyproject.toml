@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "url-shoterner"
+version = "0.1.0"
+description = ""
+authors = ["Luca <lucapalonca@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pymongo = "^4.11.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
